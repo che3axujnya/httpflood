@@ -9,7 +9,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/fahise/httpflood.git
+  git clone https://github.com/che3axujnya/httpflood
 ```
 
 Go to the project directory
